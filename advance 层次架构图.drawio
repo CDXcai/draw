@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="V0_4xYwdymEcvIqB6sBl-5" edge="1" parent="1" source="TqVWxws2DwOeRLgZSRCT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TqVWxws2DwOeRLgZSRCT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TqVWxws2DwOeRLgZSRCT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="70" width="500" x="120" y="120" as="geometry" />
         </mxCell>
@@ -38,25 +41,52 @@
           <mxGeometry height="20" width="110" x="304" y="260" as="geometry" />
         </mxCell>
         <mxCell id="TqVWxws2DwOeRLgZSRCT-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="170" width="500" x="120" y="310" as="geometry" />
+          <mxGeometry height="170" width="500" x="120" y="350" as="geometry" />
         </mxCell>
         <mxCell id="TqVWxws2DwOeRLgZSRCT-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;服务层&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="320" y="310" as="geometry" />
+          <mxGeometry height="40" width="100" x="320" y="350" as="geometry" />
         </mxCell>
         <mxCell id="TqVWxws2DwOeRLgZSRCT-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;System 服务（系统管理/权限）&lt;/span&gt;" vertex="1">
-          <mxGeometry height="20" width="280" x="219" y="350" as="geometry" />
+          <mxGeometry height="20" width="280" x="219" y="390" as="geometry" />
         </mxCell>
         <mxCell id="TqVWxws2DwOeRLgZSRCT-22" edge="1" parent="1" source="TqVWxws2DwOeRLgZSRCT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="TqVWxws2DwOeRLgZSRCT-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V0_4xYwdymEcvIqB6sBl-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Customer（客户管理/认证/咨询）&lt;/span&gt;" vertex="1">
-          <mxGeometry height="20" width="280" x="219" y="380" as="geometry" />
+          <mxGeometry height="20" width="280" x="219" y="420" as="geometry" />
         </mxCell>
         <mxCell id="V0_4xYwdymEcvIqB6sBl-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Law（ 案件管理）&lt;/span&gt;" vertex="1">
-          <mxGeometry height="20" width="280" x="219" y="410" as="geometry" />
+          <mxGeometry height="20" width="280" x="219" y="450" as="geometry" />
         </mxCell>
         <mxCell id="V0_4xYwdymEcvIqB6sBl-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Tools（ 文件管理、通用工具）&lt;/span&gt;" vertex="1">
-          <mxGeometry height="20" width="280" x="219" y="440" as="geometry" />
+          <mxGeometry height="20" width="280" x="219" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="V0_4xYwdymEcvIqB6sBl-4" edge="1" parent="1" source="TqVWxws2DwOeRLgZSRCT-12" style="endArrow=classic;html=1;rounded=0;exitX=0.486;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.44;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" target="TqVWxws2DwOeRLgZSRCT-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="400" as="sourcePoint" />
+            <mxPoint x="430" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V0_4xYwdymEcvIqB6sBl-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="500" x="120" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="V0_4xYwdymEcvIqB6sBl-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;基础设施层&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="300" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="V0_4xYwdymEcvIqB6sBl-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Mysql 数据持久化存储&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="200" x="140" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="V0_4xYwdymEcvIqB6sBl-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Nacos 服务注册发现&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="200" x="140" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="V0_4xYwdymEcvIqB6sBl-14" edge="1" parent="1" source="V0_4xYwdymEcvIqB6sBl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="V0_4xYwdymEcvIqB6sBl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V0_4xYwdymEcvIqB6sBl-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;MinIO 文件存储&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="150" x="415" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="V0_4xYwdymEcvIqB6sBl-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Redis NoSQL 数据库&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="180" x="420" y="650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
